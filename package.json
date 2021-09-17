@@ -1,0 +1,20 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZLAPA",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "@distube/ytdl-core": "^4.9.3",
+    "ards-client": "^1.2.7-1",
+    "discord.js": "^12.5.1",
+    "distube": "^2.8.18",
+    "ffmpeg-static": "^4.4.0",
+    "string-progressbar": "^1.0.4"
+  }
+}
